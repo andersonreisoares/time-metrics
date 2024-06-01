@@ -6,7 +6,7 @@ authors = ["Brazil Data Cube Team <brazildatacube@dpi.inpe.br>"]
 readme = "README.rst"
 
 [tool.poetry.dependencies]
-python = "==3.10.13"
+python = "^3.10"
 dtaidistance = "==2.3.11"
 pandas = "==2.1.4"
 matplotlib = "==3.8.2"
